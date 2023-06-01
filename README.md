@@ -13,3 +13,14 @@
 
 ------------------------
 
+## Installation
+
+```
+  pip install tkinter
+  pip install transformers
+  pip install gtts
+  pip install playsound
+  pip install webbrowser
+  pip install beautifulsoup4
+  
+```
