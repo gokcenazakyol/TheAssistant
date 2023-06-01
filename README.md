@@ -19,7 +19,7 @@
   pip install tkinter
   pip install transformers
   pip install gtts
-  pip install playsound
+  pip install playsound==1.2.2
   pip install webbrowser
   pip install beautifulsoup4
   
