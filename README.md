@@ -14,6 +14,11 @@
 ------------------------
 
 ## Installation
+Open your terminal, then:
+```
+  cd $YOUR-PATH/TheAssistant-main
+```
+Then, you need to install these libraries:
 
 ```
   pip install tkinter
@@ -22,5 +27,20 @@
   pip install playsound==1.2.2
   pip install webbrowser
   pip install beautifulsoup4
-  
+  pip install AppKit
 ```
+
+If you are using MacOS, you may need to install this:
+
+```
+  pip3 install -U pyobjc
+```
+Then, run this command:
+```
+  python3 GUI.py
+```
+If you have troubles, you may run GUI.py file on your IDLE.
+----------------------------------
+
+## Customization 🤡
+If you want to customize your model, you can run TheAssistantModel.ipynb file locally or on Colab, answer the questions in this file and train your own model accordingly! ✨
