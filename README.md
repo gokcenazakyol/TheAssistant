@@ -40,7 +40,14 @@ Then, run this command:
   python3 GUI.py
 ```
 If you have troubles, you may run GUI.py file on your IDLE.
+
 ----------------------------------
 
 ## Customization 🤡
 If you want to customize your model, you can run TheAssistantModel.ipynb file locally or on Colab, answer the questions in this file and train your own model accordingly! ✨
+
+----------------------------------
+## Details 📙
+You may want to read this [paper](https://github.com/gokcenazakyol/TheAssistant/blob/main/TheAssistant.pdf) for more information :)
+
+
